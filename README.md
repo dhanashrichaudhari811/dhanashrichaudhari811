@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhanashrichaudhari811
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning MernStack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
